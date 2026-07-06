@@ -1,0 +1,33 @@
+# React / Node
+react-frontend/node_modules/
+react-frontend/dist/
+
+# ASP.NET build output
+BahriaTownEnclave/obj/
+BahriaTownEnclave/PublishOutput/
+BahriaTownEnclave/bin/BahriaTownEnclave.dll
+BahriaTownEnclave/bin/BahriaTownEnclave.pdb
+BahriaTownEnclave/bin/BahriaTownEnclave.dll.config
+BahriaTownEnclave/bin/roslyn/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+npm-debug.log*
+
+UpgradeLog.htm
+_iiserr.txt
+_iisout.txt
+vs-load-log.xml
+packages/
+
+# Large binary files - manage separately
+BahriaTownEnclave/Report/
+BahriaTownEnclave/bin/
+BahriaTownEnclave/crystalreportviewers13/
